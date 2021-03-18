@@ -43,7 +43,15 @@ Formulaire contact             |  Code Formulaire
 ## Page Pro
 ***
 Pour la réservation en ligne, j'ai utilisé le plugin ***Contact Form 7***</br>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstorage.googleapis.com%2Fstateless-appmaker-en-xyz%2F2020%2F07%2Fbd657673-icon-2.svg&imgrefurl=https%3A%2F%2Fcontactform7.com%2F&tbnid=MRwNE2GJdacpIM&vet=12ahUKEwi6g4_fsLnvAhUWBWMBHR7FDFUQMygBegUIARCVAQ..i&docid=JntRf3F6tZWy6M&w=800&h=791&q=contact%20form%207%20logo&ved=2ahUKEwi6g4_fsLnvAhUWBWMBHR7FDFUQMygBegUIARCVAQ width="100"/></br>
+<img src="https://ps.w.org/contact-form-7/assets/icon.svg?rev=2339255" width="100"/></br>
+
+## Page F.A.Q
+***
+Pour la F.A.Q en ligne, j'ai utilisé le plugin ***ultimate FAQ***</br>
+Un pluggin qui permet d'installer des faq sous forme de questions réponses statique déjà bien établie.
+https://ps.w.org/ultimate-faqs/assets/icon-128x128.png?rev=1803957
+<img src= width="100"/></br>
+
 
  Facile d'utilisation, il suffit de placer les différents composants que l'on souhaite ajouter et le tour est joué!<br>
 [Sommaire](#Sommaire)
