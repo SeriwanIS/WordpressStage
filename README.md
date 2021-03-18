@@ -1,3 +1,4 @@
+
 # WordpressStage
 # <p align="center">Creation d'un site web sous WordPress</p>
 ## Sommaire
@@ -48,7 +49,7 @@ Pour la réservation en ligne, j'ai utilisé le plugin ***Contact Form 7***</br>
 ## Page F.A.Q
 ***
 Pour la F.A.Q en ligne, j'ai utilisé le plugin ***ultimate FAQ***</br>
-Un pluggin qui permet d'installer des faq sous forme de questions réponses statique déjà bien établie.
+Un plugin qui permet d'installer des faq sous forme de questions réponses statique déjà bien établie.
 <img src="https://ps.w.org/ultimate-faqs/assets/icon-128x128.png?rev=1803957" width="100"/></br>
 
 
